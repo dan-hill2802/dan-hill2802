@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Daniel Hill
+Professional, experienced, accomplished DevOps engineer with a software engineering and web developer background and a first class honours degree in Computer Science. Adept in numerous programming and scripting languages, skilled Linux SysAdmin, highly motivated and resourceful, with the ambition and ability to acquire and develop skills in new languages and areas of practice.
 <!--
 **dan-hill2802/dan-hill2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-hill2802)
+[![GitHub Game of Life](https://github4life.herokuapp.com/dan-hill2802.gif?z=6)](https://github4life.herokuapp.com/dan-hill2802)
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dan-hill2802&show_icons=true&theme=gruvbox)
+
+
+
